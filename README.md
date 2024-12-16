@@ -13,9 +13,9 @@ bash :
 
 conda create -n mlrebit python=3.10 -y
 
-# JFK : -p
+#### JFK : -p
 conda create -p mlrebit python=3.10 -y
-# when you use -p the env is created within the project structure locally
+#### when you use -p the env is created within the project structure locally
 
 to activate the venv
 conda activate mlrebit
@@ -24,3 +24,8 @@ requirement installation command
 pip install -r requirements.txt
 
 """
+
+#### Blog for YAML
+https://medium.com/analytics-vidhya/how-to-write-configuration-files-in-your-machine-learning-project-47bc840acc19
+
+
