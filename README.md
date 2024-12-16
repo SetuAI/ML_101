@@ -4,3 +4,23 @@ repo contains ML related stuff - docs, codes, datasets, books, PPTs
 if using bash terminal  you can create files using touch command
 for example, touch template.py and push it on github 
 
+
+# create virtual env 
+in our base env we have many packages installed so we are using venv
+
+"""
+bash :
+
+conda create -n mlrebit python=3.10 -y
+
+# JFK : -p
+conda create -p mlrebit python=3.10 -y
+# when you use -p the env is created within the project structure locally
+
+to activate the venv
+conda activate mlrebit
+
+requirement installation command
+pip install -r requirements.txt
+
+"""
