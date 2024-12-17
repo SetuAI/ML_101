@@ -42,3 +42,25 @@ OR you can also create another folder for logging purposes.
 we are using box exception 
 from box.exceptions import BoxValueError
 raising exception with box exception
+
+#### project workflows
+#### they need to be updated one after the other
+update config.yaml 
+
+update schema.yaml 
+
+update params.yaml (all the parameter changes wrt to algo can be done in params.yaml)
+
+update the entity 
+
+update the configuration manager in src config
+(Inside src,under config we have configuration.py)
+
+update the components
+
+update the pipeline
+
+update the main.py (root file to be triggered for executing training pipeline)
+
+update the app.py (frontend part)
+ 
