@@ -12,7 +12,7 @@ logging_str = "[%(asctime)s: %(levelname)s: %(module)s: %(message)s]"
 log_dir = "logs"
 
 # we need to create a log file inside the directory called running_log.log
-log_filepath = os.path.join(log_dir, "running_log.log")
+log_filepath = os.path.join(log_dir, "running_log_new.log")
 # create using makedires, if it is not available it will create one 
 os.makedirs(log_dir, exist_ok=True)
 
