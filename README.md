@@ -1,11 +1,11 @@
-# ML_101
+#### ML_101
 repo contains ML related stuff - docs, codes, datasets, books, PPTs
 
 if using bash terminal  you can create files using touch command
 for example, touch template.py and push it on github 
 
 
-# create virtual env 
+#### create virtual env 
 in our base env we have many packages installed so we are using venv
 
 """
@@ -29,3 +29,5 @@ pip install -r requirements.txt
 https://medium.com/analytics-vidhya/how-to-write-configuration-files-in-your-machine-learning-project-47bc840acc19
 
 
+#### writing project utility 
+logging,exceptions and utils module
