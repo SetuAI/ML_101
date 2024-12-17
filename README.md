@@ -31,3 +31,10 @@ https://medium.com/analytics-vidhya/how-to-write-configuration-files-in-your-mac
 
 #### writing project utility 
 logging,exceptions and utils module
+
+why we need logging ? 
+Inside src, we have ML rebit folder (this is user defined)
+Inside the same, we have __init__.py (constructor file)
+we will use constructor file for logging purposes
+OR you can also create another folder for logging purposes.
+

@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.INFO ,
 # https://docs.python.org/3/howto/logging.html
 
 # create a project folder
-project_name ="ML_REBIT_001"
+project_name ="mlrebit"
 
 
 # we need to define a list of files and folders 

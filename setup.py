@@ -9,7 +9,7 @@ __version__ = "0.0.0"
  
 REPO_NAME = "ML_101" 
 AUTHOR_USER_NAME = "SetuAI"
-SRC_REPO = "ML_REBIT_001" # source repository inside src folder
+SRC_REPO = "mlrebit" # source repository inside src folder
 AUTHOR_EMAIL = "chirantandatascience@gmail.com"
 
 # now with setuptools.setup we will setup the src folder as local package
