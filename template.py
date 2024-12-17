@@ -69,4 +69,3 @@ for filepath in list_of_files:
         logging.info(f"{filename} is already ex ists")
 
 # run the code using python template.py and you can see changes being reflected 
-# whatever files you have created in src will be reflected in the left pane
