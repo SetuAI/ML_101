@@ -38,3 +38,7 @@ Inside the same, we have __init__.py (constructor file)
 we will use constructor file for logging purposes
 OR you can also create another folder for logging purposes.
 
+#### for exception 
+we are using box exception 
+from box.exceptions import BoxValueError
+raising exception with box exception
